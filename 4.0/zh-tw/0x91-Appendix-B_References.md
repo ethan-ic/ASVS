@@ -1,38 +1,38 @@
-# 附錄B：參考文獻
+# 附錄 B：參考文獻
 
-以下OWASP專案最可能對本標準的使用者/採用者有用：
+以下 OWASP 專案最可能對本標準的使用者 / 採用者有用：
 
-## OWASP核心專案
+## OWASP 核心專案
 
-1. OWASP Top 10專案：[https://owasp.org/www-project-top-ten/](https://owasp.org/www-project-top-ten/)
-2. OWASP網路安全測試指南：[https://owasp.org/www-project-web-security-testing-guide/](https://owasp.org/www-project-web-security-testing-guide/)
+1. OWASP Top 10 專案：[https://owasp.org/www-project-top-ten/](https://owasp.org/www-project-top-ten/)
+2. OWASP 網路安全測試指南：[https://owasp.org/www-project-web-security-testing-guide/](https://owasp.org/www-project-web-security-testing-guide/)
 3. OWASP 主動控制：[https://owasp.org/www-project-proactive-controls/](https://owasp.org/www-project-proactive-controls/)
-4. OWASP安全知識框架：[https://owasp.org/www-project-security-knowledge-framework/](https://owasp.org/www-project-security-knowledge-framework/)
-5. OWASP軟體保障成熟度模型（SAMM）：[https://owasp.org/www-project-samm/](https://owasp.org/www-project-samm/)
+4. OWASP 安全知識框架：[https://owasp.org/www-project-security-knowledge-framework/](https://owasp.org/www-project-security-knowledge-framework/)
+5. OWASP 軟體保障成熟度模型（SAMM）：[https://owasp.org/www-project-samm/](https://owasp.org/www-project-samm/)
 
-## OWASP Cheat Sheet系列專案
+## OWASP Cheat Sheet 系列專案
 
 [該專案](https://owasp.org/www-project-cheat-sheets/) 有許多與 ASVS 中的不同主題相關的備忘單。
 
 可以在此處找到到 ASVS 的對映： [https://cheatsheetseries.owasp.org/cheatsheets/IndexASVS.html](https://cheatsheetseries.owasp.org/cheatsheets/IndexASVS.html)
 
-## 移動安全相關專案
+## 行動安全相關專案
 
-1. OWASP 移動安全專案：[https://owasp.org/www-project-mobile-security/](https://owasp.org/www-project-mobile-security/)
+1. OWASP 行動安全專案：[https://owasp.org/www-project-mobile-security/](https://owasp.org/www-project-mobile-security/)
 2. OWASP Mobile Top 10 風險：[https://owasp.org/www-project-mobile-top-10/](https://owasp.org/www-project-mobile-top-10/)
-3. OWASP移動安全測試指南和移動應用安全驗證標準：[https://owasp.org/www-project-mobile-security-testing-guide/](https://owasp.org/www-project-mobile-security-testing-guide/)
+3. OWASP 行動安全測試指南：[https://owasp.org/www-project-mobile-security-testing-guide/](https://owasp.org/www-project-mobile-security-testing-guide/)
 
-## OWASP物聯網相關專案
+## OWASP 物聯網相關專案
 
-1. OWASP物聯網專案：[https://owasp.org/www-project-internet-of-things/](https://owasp.org/www-project-internet-of-things/)
+1. OWASP 物聯網專案：[https://owasp.org/www-project-internet-of-things/](https://owasp.org/www-project-internet-of-things/)
 
-## OWASP Serverless專案
+## OWASP Serverless 專案
 
-1. OWASP Serverless專案：[https://owasp.org/www-project-serverless-top-10/](https://owasp.org/www-project-serverless-top-10/)
+1. OWASP Serverless 專案：[https://owasp.org/www-project-serverless-top-10/](https://owasp.org/www-project-serverless-top-10/)
 
 ## 其他
 
-同樣，以下網站最有可能對本標準的使用者/採用者有用
+同樣，以下網站最有可能對本標準的使用者 / 採用者有用
 
 1. SecLists Github: [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
 2. MITRE 常見弱點列舉: [https://cwe.mitre.org/](https://cwe.mitre.org/)

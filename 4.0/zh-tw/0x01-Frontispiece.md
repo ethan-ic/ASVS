@@ -1,8 +1,8 @@
-# 卷首語
+# 序言
 
 ## 關於本標準
 
-應用安全驗證標準，是一份要求和測試應用安全的清單，可供架構師、開發人員、測試人員、安全專家、工具供應商和消費者參考，用於定義、構建、測試和驗證安全的應用。
+應用程式安全驗證標準，是一份要求和測試應用程式安全的清單，可供架構師、開發人員、測試人員、安全專家、工具供應商和消費者參考，用於定義、構建、測試和驗證安全的應用。
 
 ## 版權和許可
 
@@ -10,7 +10,7 @@ Version 4.0.3, 2021 年 10 月
 
 ![license](../images/license.png)
 
-Copyright © 2008-2021 The OWASP Foundation. 本文件根據 [Creative Commons Attribution ShareAlike 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/) 釋出。 對於任何重用或分發，你必須向他人明確說明本作品的許可條款。
+Copyright © 2008-2021 The OWASP Foundation. 本文件根據 [Creative Commons Attribution ShareAlike 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/) 釋出。對於任何再利用或分發，你必須向他人明確說明本作品的許可條款。
 
 ## 專案負責人
 
@@ -48,4 +48,4 @@ Copyright © 2008-2021 The OWASP Foundation. 本文件根據 [Creative Commons A
 
 如果上面的 4.0.3 致謝列表中缺少某些內容，請在 GitHub 上記錄一個工單，以便在未來的更新中得到確認。
 
-從 2008 年的 ASVS 1.0，到 2016 年的 3.0，這份應用安全驗證標準，一直都站在前人的肩膀上。 直到今天，ASVS 中的大部分結構和驗證項，都是最初由 Mike Boberski、Jeff Williams 和 Dave Wichers 編寫的，但還有許多貢獻者。 感謝那些以前參與過的人。若需檢視所有早期版本貢獻者的名單，請查閱每個以前的版本。
+從 2008 年的 ASVS 1.0，到 2016 年的 3.0，這份應用程式安全驗證標準，一直都站在前人的肩膀上。 直到今天，ASVS 中的大部分結構和驗證，都是最初由 Mike Boberski、Jeff Williams 和 Dave Wichers 編寫的，但還有許多貢獻者。 感謝那些以前參與過的人。若需檢視所有早期版本貢獻者的名單，請查閱每個以前的版本。
